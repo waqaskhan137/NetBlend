@@ -17,7 +17,7 @@ Follow these steps to install and configure the NetBlend VPN service:
 
 2. Download the installation script:
    ```bash
-   wget https://example.com/netblend-vpn-installer.sh
+   wget https://raw.githubusercontent.com/waqaskhan137/NetBlend/main/netblend-vpn-installer.sh
    ```
 
 3. Make the script executable:
